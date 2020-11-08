@@ -187,3 +187,7 @@ footer{
 section[epub|type~="division"] header {
 	padding-top: 1em;
 }
+
+blockquote.statement {
+	font-style: italic;
+}
