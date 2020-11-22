@@ -54,11 +54,21 @@ section[epub|type~="epigraph"] > *{
 	}
 }
 
+[epub|type~="dedication"]{
+	hyphens: none;
+	-epub-hyphens: none;
+}
+
+section[epub|type~="dedication"]{
+	text-align: center;
+}
+
 section[epub|type~="dedication"] > *{
 	display: inline-block;
 	margin: auto;
 	margin-top: 3em;
 	max-width: 80%;
+	text-align: left;
 }
 
 @supports(display: flex){
@@ -75,18 +85,22 @@ section[epub|type~="dedication"] > *{
 	section[epub|type~="dedication"] > *{
 		margin: 0;
 	}
+
+	section[epub|type~="dedication"] > * + *{
+		margin-top: 3em;
+	}
 }
 
-section[epub|type~="dedication"] > blockquote[epub|type="z3998:poem"]{
+section[epub|type~="dedication"] > p{
 	font-variant: all-small-caps;
-}
-
-section[epub|type~="dedication"] > blockquote[epub|type="z3998:poem"] > p{
 	text-align: center;
 }
 
-section[epub|type~="dedication"] > blockquote[epub|type="z3998:poem"] > cite{
-	font-variant: normal;
+[epub|type~="dedication"] > footer{
+	margin-top: 1em;
+	font-variant: small-caps;
+	font-style: normal;
+	text-align: right;
 }
 
 [epub|type~="z3998:poem"] p{
@@ -119,6 +133,7 @@ p span.i2{
 }
 
 footer{
+	margin-top: 1em;
 	text-align: right;
 }
 
