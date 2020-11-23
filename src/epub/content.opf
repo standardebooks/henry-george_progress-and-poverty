@@ -29,6 +29,14 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Progress and Poverty</dc:title>
 		<meta property="file-as" refines="#title">Progress and Poverty</meta>
+		<meta property="title-type" refines="#title">main</meta>
+		<meta property="title-type" refines="#title">short</meta>
+		<dc:title id="subtitle">An Inquiry Into the Cause of Industrial Depressions and of Increase of Want with Increase of Wealth: The Remedy</dc:title>
+		<meta property="title-type" refines="#subtitle">Inquiry Into the Cause of Industrial Depressions and of Increase of Want with Increase of Wealth: The Remedy, An</meta>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<dc:title id="fulltitle">Progress and Poverty: An Inquiry Into the Cause of Industrial Depressions and of Increase of Want with Increase of Wealth: The Remedy</dc:title>
+		<meta property="file-as" refines="#fulltitle">Progress and Poverty: An Inquiry Into the Cause of Industrial Depressions and of Increase of Want with Increase of Wealth: The Remedy</meta>
+		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Economics</dc:subject>
 		<dc:subject id="subject-2">Single tax</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
@@ -36,14 +44,17 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85122861</meta>
 		<meta property="se:subject">Nonfiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">An explanation on why increased productivity has not led to increased wages, and how the application of a single land value tax can fix this and lead to a more just society.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;Progress and Poverty&lt;/i&gt; (&lt;time&gt;1879&lt;/time&gt;) was the most popular book of American political economist &lt;a href="https://standardebooks.org/ebooks/henry-george"&gt;Henry George&lt;/a&gt;. The book explores why the economy of the mid-to-late 1800s had seen a simultaneous economic growth and growth in poverty. The appeal of the book at the time was in its balance of moral and economic arguments; challenging the popular notions that the poor were responsible for their woes through population growth. Inspired by his years living in San Francisco and his own experience with privation, George argues instead that poverty had grown due to the increasing speculation and monopolisation of land, as landowners had captured the increases in growth, investment and productivity through the rising cost of rent.&lt;/p&gt;
+			&lt;p&gt;To solve this, George proposes the complete taxation of the unimproved value of land; returning the value of land created through location to the community. This solution would incentivise individuals to use the land they own productively and remove the tendency to speculate upon land’s increasing value. George’s argument was profoundly liberal, as individuals retained the right to own land and enjoy the profits generated from production upon it.&lt;/p&gt;
+			&lt;p&gt;In the 1890s, &lt;i&gt;Progress and Poverty&lt;/i&gt; became hugely popular, being outsold only by the bible. It inspired the &lt;a href="https://en.wikipedia.org/wiki/Georgism"&gt;Single Tax Movement&lt;/a&gt;, alongside a wide range of intellectuals and policy-makers in the early 1900s, including Leo Tolstoy, Albert Einstein, and British Prime Minister Winston Churchill.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/55308</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
+		<dc:source>https://archive.org/details/writingsofhenryg01geor</dc:source>
+		<dc:source>https://archive.org/details/writingsofhenryg02geor</dc:source>
+		<meta property="se:production-notes">Some editions of the book say (under the “Preface to the Fourth Edition”) that George updated the book before his death with “slight alterations in syntax and punctuation,” along with a couple of endnotes. As far as I can tell, the 1898 edition that this transcribtion is based off contains these. Modern editions also contain a second preface by his son, George Jr, or a completely overhauled frontmatter courtesy of the Robert Schalkenbach Foundation editions. As for my work, I decided not to modernize the spelling for quotes of other books. This may look weird when the main text says "Hindu" whilst one quote says "Hindoo," but I erred on the side of accuracy.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Progress_and_Poverty</meta>
@@ -55,16 +66,16 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URL</meta>
+		<dc:contributor id="artist">George Bellows</dc:contributor>
+		<meta property="file-as" refines="#artist">Bellows, George</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/George_Bellows</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n50007142</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Carlo Traverso</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-1">Traverso, Carlo</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2"> Les Galloway</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-2">Galloway, Les</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">The Online Distributed Proofreading Team</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreading Team, The</meta>
