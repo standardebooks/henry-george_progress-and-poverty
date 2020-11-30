@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/henry-george/progress-and-poverty</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2020-11-30T00:38:58Z</dc:date>
+		<meta property="dcterms:modified">2020-11-30T00:38:58Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -30,9 +30,8 @@
 		<dc:title id="title">Progress and Poverty</dc:title>
 		<meta property="file-as" refines="#title">Progress and Poverty</meta>
 		<meta property="title-type" refines="#title">main</meta>
-		<meta property="title-type" refines="#title">short</meta>
 		<dc:title id="subtitle">An Inquiry Into the Cause of Industrial Depressions and of Increase of Want with Increase of Wealth: The Remedy</dc:title>
-		<meta property="title-type" refines="#subtitle">Inquiry Into the Cause of Industrial Depressions and of Increase of Want with Increase of Wealth: The Remedy, An</meta>
+		<meta property="file-as" refines="#subtitle">Inquiry Into the Cause of Industrial Depressions and of Increase of Want with Increase of Wealth: The Remedy, An</meta>
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">Progress and Poverty: An Inquiry Into the Cause of Industrial Depressions and of Increase of Want with Increase of Wealth: The Remedy</dc:title>
 		<meta property="file-as" refines="#fulltitle">Progress and Poverty: An Inquiry Into the Cause of Industrial Depressions and of Increase of Want with Increase of Wealth: The Remedy</meta>
@@ -46,17 +45,17 @@
 		<meta property="se:subject">Nonfiction</meta>
 		<dc:description id="description">An explanation on why increased productivity has not led to increased wages, and how the application of a single land value tax can fix this and lead to a more just society.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;Progress and Poverty&lt;/i&gt; (&lt;time&gt;1879&lt;/time&gt;) was the most popular book of American political economist &lt;a href="https://standardebooks.org/ebooks/henry-george"&gt;Henry George&lt;/a&gt;. The book explores why the economy of the mid-to-late 1800s had seen a simultaneous economic growth and growth in poverty. The appeal of the book at the time was in its balance of moral and economic arguments; challenging the popular notions that the poor were responsible for their woes through population growth. Inspired by his years living in San Francisco and his own experience with privation, George argues instead that poverty had grown due to the increasing speculation and monopolisation of land, as landowners had captured the increases in growth, investment and productivity through the rising cost of rent.&lt;/p&gt;
-			&lt;p&gt;To solve this, George proposes the complete taxation of the unimproved value of land; returning the value of land created through location to the community. This solution would incentivise individuals to use the land they own productively and remove the tendency to speculate upon land’s increasing value. George’s argument was profoundly liberal, as individuals retained the right to own land and enjoy the profits generated from production upon it.&lt;/p&gt;
-			&lt;p&gt;In the 1890s, &lt;i&gt;Progress and Poverty&lt;/i&gt; became hugely popular, being outsold only by the bible. It inspired the &lt;a href="https://en.wikipedia.org/wiki/Georgism"&gt;Single Tax Movement&lt;/a&gt;, alongside a wide range of intellectuals and policy-makers in the early 1900s, including Leo Tolstoy, Albert Einstein, and British Prime Minister Winston Churchill.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Progress and Poverty&lt;/i&gt;, first published in 1879, was American political economist &lt;a href="https://standardebooks.org/ebooks/henry-george"&gt;Henry George’s&lt;/a&gt; most popular book. It explores why the economy of the mid-to-late 1800s had seen a simultaneous economic growth and growth in poverty. The book’s appeal was in its balance of moral and economic arguments, challenging the popular notion that the poor, through uncontrolled population growth, were responsible for their own woes. Inspired by his years living in San Francisco and his own experience with privation, George argues instead that poverty had grown due to the increasing speculation and monopolization of land, as landowners had captured the increases in growth, investment, and productivity through the rising cost of rent.&lt;/p&gt;
+			&lt;p&gt;To solve this, George proposes the complete taxation of the unimproved value of land, thus returning the value of land, created through location, to the community. This solution would incentivize individuals to use the land they own productively and remove the tendency to speculate upon land’s increasing value. George’s argument was profoundly liberal, as individuals retain the right to own land and enjoy the profits generated from production upon it.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Progress and Poverty&lt;/i&gt; was hugely popular in the 1890s, being outsold only by the Bible. It inspired the Single Tax Movement, and influenced a wide range of intellectuals and policymakers in the early 1900s including Leo Tolstoy, Albert Einstein, and Winston Churchill.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/55308</dc:source>
 		<dc:source>https://archive.org/details/writingsofhenryg01geor</dc:source>
 		<dc:source>https://archive.org/details/writingsofhenryg02geor</dc:source>
-		<meta property="se:production-notes">Some editions of the book say (under the “Preface to the Fourth Edition”) that George updated the book before his death with “slight alterations in syntax and punctuation,” along with a couple of endnotes. As far as I can tell, the 1898 edition that this transcribtion is based off contains these. Modern editions also contain a second preface by his son, George Jr, or a completely overhauled frontmatter courtesy of the Robert Schalkenbach Foundation editions. As for my work, I decided not to modernize the spelling for quotes of other books. This may look weird when the main text says "Hindu" whilst one quote says "Hindoo," but I erred on the side of accuracy.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:production-notes">Some editions of the book say (under the “Preface to the Fourth Edition”) that George updated the book before his death with “slight alterations in syntax and punctuation,” along with a couple of endnotes. As far as I can tell, the 1898 edition that this transcribtion is based off contains these. Modern editions also contain a second preface by his son, George Jr, or a completely overhauled frontmatter courtesy of the Robert Schalkenbach Foundation editions.</meta>
+		<meta property="se:word-count">169657</meta>
+		<meta property="se:reading-ease.flesch">46.85</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Progress_and_Poverty</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/henry-george_progress-and-poverty</meta>
 		<dc:creator id="author">Henry George</dc:creator>
@@ -74,7 +73,7 @@
 		<dc:contributor id="transcriber-1">Carlo Traverso</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Traverso, Carlo</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2"> Les Galloway</dc:contributor>
+		<dc:contributor id="transcriber-2">Les Galloway</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Galloway, Les</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">The Online Distributed Proofreading Team</dc:contributor>
@@ -90,6 +89,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
