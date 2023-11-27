@@ -53,7 +53,7 @@
 		<dc:source>https://archive.org/details/writingsofhenryg01geor</dc:source>
 		<dc:source>https://archive.org/details/writingsofhenryg02geor</dc:source>
 		<meta property="se:production-notes">Some editions of the book say (under the “Preface to the Fourth Edition”) that George updated the book before his death with “slight alterations in syntax and punctuation,” along with a couple of endnotes. As far as I can tell, the 1898 edition that this transcribtion is based off contains these. Modern editions also contain a second preface by his son, George Jr, or a completely overhauled frontmatter courtesy of the Robert Schalkenbach Foundation editions.</meta>
-		<meta property="se:word-count">169653</meta>
+		<meta property="se:word-count">169654</meta>
 		<meta property="se:reading-ease.flesch">46.85</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Progress_and_Poverty</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/henry-george_progress-and-poverty</meta>
