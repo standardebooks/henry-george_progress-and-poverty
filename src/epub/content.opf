@@ -36,7 +36,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">Progress and Poverty: An Inquiry Into the Cause of Industrial Depressions and of Increase of Want with Increase of Wealth: The Remedy</dc:title>
 		<meta property="file-as" refines="#fulltitle">Progress and Poverty: An Inquiry Into the Cause of Industrial Depressions and of Increase of Want with Increase of Wealth: The Remedy</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Economics</dc:subject>
 		<dc:subject id="subject-2">Single tax</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
